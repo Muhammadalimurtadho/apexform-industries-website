@@ -27,12 +27,5 @@ Website resmi untuk ApexForm Industries, perusahaan manufaktur heavy fabrication
 - Google Fonts (Work Sans)
 - Gambar dari Unsplash
 
-## Cara menjalankan
-
-1. Clone repository ini ke komputer lokal.
-2. Buka folder project.
-3. Double click file `index.html` atau drag ke browser.
-4. Tidak ada build step, semua berjalan langsung di browser.
-
 ## Live demo
 https://muhammadalimurtadho/apexform-industries-website
