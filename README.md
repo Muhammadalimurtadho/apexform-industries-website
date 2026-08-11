@@ -28,4 +28,4 @@ Website resmi untuk ApexForm Industries, perusahaan manufaktur heavy fabrication
 - Gambar dari Unsplash
 
 ## Live demo
-https://muhammadalimurtadho/apexform-industries-website
+https://muhammadalimurtadho.github.io/apexform-industries-website/
